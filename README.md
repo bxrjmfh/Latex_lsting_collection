@@ -274,6 +274,17 @@
    \lstinputlisting[style={prettyverilog}]{test.v}
    ```
 
+## cpp
+
+有一个现成的用法：
+```latex
+ \begin{lstlisting}[language=C++]
+    int main(int argc, char* argv[])
+    {
+    	printf("Hello world!");
+    }
+  \end{lstlisting}
+```
 ### 代码片段设置
 
 为了方便，设置了一些快捷的代码片段，设置方法请自行查阅。
